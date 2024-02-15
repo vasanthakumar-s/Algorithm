@@ -1,0 +1,13 @@
+Linear Search
+
+Linear Search is used to find an elament from multiple elements.
+Best Time Complexity - O(1) - If element is found in the 0th index
+Worst Time Complexity - O(n) - If the element is not present in the array and 'n' may denote the length of the array
+
+Consider we have to find a element in the array.
+array = 3, 9, 7, 1, 6, 5, 8
+
+Step 1: Traverse the array
+Step 2: Match the key element with array element
+Step 3: If key element is found, return the index position of the array element
+Step 4: If key element is not found, return -1
